@@ -4,3 +4,5 @@
 #### This is an `<h4>` header
 ##### This is an `<h5>` header
 ###### This is an `<h6>` header, which is the smallest
+
+![Image of Installing UV, Git and VS Code (by ChatGPT)](https://camphouse.me/assets/img/HAI5016-25/week-2-get-systems-ready.jpg)
