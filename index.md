@@ -15,6 +15,6 @@ Hello, World!
 This format is called code block.
 ```
 
-- [x] List syntax is required
-- [x] This item is complete
-- [ ] This item is not complete
+- [x] Introduction to GitHub
+- [ ] Communicate using Markdown
+- [ ] Markdown Presentaion
